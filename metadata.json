@@ -1,0 +1,6 @@
+{
+  "name": "Android Launcher Web",
+  "description": "A high-fidelity Samsung Galaxy Tab A11 Android 16 & One UI 7 launcher web experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

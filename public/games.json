@@ -1,0 +1,114 @@
+[
+  {
+    "id": "pacman",
+    "name": "باكمان Classic",
+    "icon": "https://cdn-icons-png.flaticon.com/512/588/588257.png",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "ألعاب كلاسيكية"
+  },
+  {
+    "id": "puzzle-2048",
+    "name": "لعبة 2048 الأصلي",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3507/3507693.png",
+    "url": "https://gabrielecirulli.github.io/2048/",
+    "category": "ألعاب ذكاء وتفكير"
+  },
+  {
+    "id": "flappy-bird",
+    "name": "فلابي بيرد Flappy Bird",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1055/1055672.png",
+    "url": "https://sanderfrenken.github.io/Universal-Flappy-Bird/",
+    "category": "ألعاب كلاسيكية"
+  },
+  {
+    "id": "chess",
+    "name": "الشطرنج العالمي Chess",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3012/3012411.png",
+    "url": "https://lichess.org/tv/frame",
+    "category": "ألعاب ذكاء وتفكير"
+  },
+  {
+    "id": "solitaire-classic",
+    "name": "سوليتير Google Solitaire",
+    "icon": "https://cdn-icons-png.flaticon.com/512/4238/4238380.png",
+    "url": "https://www.google.com/logos/2016/solitaire/solitaire.html",
+    "category": "ألعاب كلاسيكية"
+  },
+  {
+    "id": "snake-3d",
+    "name": "سنيك الثعبان Snake 3D",
+    "icon": "https://cdn-icons-png.flaticon.com/512/528/528098.png",
+    "url": "https://playsnake.org",
+    "category": "ألعاب كلاسيكية"
+  },
+  {
+    "id": "tic-tac-toe",
+    "name": "تيك تاك تو Tic-Tac-Toe",
+    "icon": "https://cdn-icons-png.flaticon.com/512/566/566294.png",
+    "url": "https://playtictactoe.org/",
+    "category": "ألعاب ذكاء وتفكير"
+  },
+  {
+    "id": "sudoku-master",
+    "name": "سودوكو اليابانية Sudoku",
+    "icon": "https://cdn-icons-png.flaticon.com/512/866/866415.png",
+    "url": "https://www.sudokuweb.org/",
+    "category": "ألعاب ذكاء وتفكير"
+  },
+  {
+    "id": "cut-the-rope",
+    "name": "قطع الحبل Cut the Rope",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2830/2830310.png",
+    "url": "https://freecuttherope.com/",
+    "category": "ألعاب ذكاء وتفكير"
+  },
+  {
+    "id": "moto-x3m",
+    "name": "سباق الدراجات Moto X3M",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3097/3097180.png",
+    "url": "https://motox3m.co/",
+    "category": "ألعاب سرعة ومغامرة"
+  },
+  {
+    "id": "subway-surfers",
+    "name": "صب واي سرفرس Subway",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3076/3076953.png",
+    "url": "https://subway-surfers.org/",
+    "category": "ألعاب سرعة ومغامرة"
+  },
+  {
+    "id": "basketball-3d",
+    "name": "كرة السلة Basketball 3D",
+    "icon": "https://cdn-icons-png.flaticon.com/512/889/889455.png",
+    "url": "https://doodle-basketball.github.io/",
+    "category": "ألعاب سرعة ومغامرة"
+  },
+  {
+    "id": "uno-online",
+    "name": "أونو أونلاين Uno",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3507/3507685.png",
+    "url": "https://unofreonline.com/",
+    "category": "ألعاب ذكاء وتفكير"
+  },
+  {
+    "id": "fireboy-watergirl",
+    "name": "ولد النار وبنت الماء",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1684/1684382.png",
+    "url": "https://fireboyandwatergirl.io/",
+    "category": "ألعاب سرعة ومغامرة"
+  },
+  {
+    "id": "block-puzzle",
+    "name": "أحجية المكعبات Block Puzzle",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3076/3076829.png",
+    "url": "https://blockpuzzle.net/",
+    "category": "ألعاب ذكاء وتفكير"
+  },
+  {
+    "id": "pong-classic",
+    "name": "بينج بونج Pong Classic",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2906/2906756.png",
+    "url": "https://ponggame.org/",
+    "category": "ألعاب كلاسيكية"
+  }
+]
